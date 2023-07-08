@@ -1,2 +1,4 @@
 # Prank-You-Friend
-Prank you Friend with simple python code
+# Made by Mn0g1as
+# Version Free
+# Have Fun
